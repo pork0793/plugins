@@ -5,4 +5,8 @@
 		<name>Test</name>
 		<version>1.0.1</version>
 	</plugin>
+	<plugin>
+		<name>AdvanceGuiPrefix</name>
+		<version>2.1.0</version>
+	</plugin>
 </plugins>
