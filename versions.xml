@@ -2,11 +2,11 @@
 
 <plugins>
 	<plugin>
-		<name>Test</name>
-		<version>1.0.1</version>
+		<name>AdvanceGuiPrefix</name>
+		<version>2.1.0</version>
 	</plugin>
 	<plugin>
 		<name>AdvanceGuiPrefix</name>
-		<version>2.1.0</version>
+		<version>1.0.0</version>
 	</plugin>
 </plugins>
