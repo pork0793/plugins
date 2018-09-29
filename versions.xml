@@ -6,7 +6,7 @@
 		<version>2.1.0</version>
 	</plugin>
 	<plugin>
-		<name>AdvanceGuiPrefix</name>
+		<name>AdminStorage</name>
 		<version>1.0.0</version>
 	</plugin>
 </plugins>
